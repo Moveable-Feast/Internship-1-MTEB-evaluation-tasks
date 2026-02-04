@@ -1,0 +1,26 @@
+{
+  "dataset_revision": "790b0510dc52b1553e8c49f3d2afb48c0e5c48b7",
+  "task_name": "QBQTC",
+  "mteb_version": "1.38.61",
+  "scores": {
+    "test": [
+      {
+        "pearson": 0.365176,
+        "spearman": 0.383547,
+        "cosine_pearson": 0.365176,
+        "cosine_spearman": 0.383553,
+        "manhattan_pearson": 0.310012,
+        "manhattan_spearman": 0.352287,
+        "euclidean_pearson": 0.310461,
+        "euclidean_spearman": 0.352724,
+        "main_score": 0.383553,
+        "hf_subset": "default",
+        "languages": [
+          "cmn-Hans"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 58.58787250518799,
+  "kg_co2_emissions": null
+}

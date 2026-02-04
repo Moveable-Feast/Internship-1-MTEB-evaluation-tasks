@@ -1,0 +1,26 @@
+{
+  "dataset_revision": "17f9b096f80380fce5ed12a9be8be7784b337daf",
+  "task_name": "LCQMC",
+  "mteb_version": "1.38.61",
+  "scores": {
+    "test": [
+      {
+        "pearson": 0.658299,
+        "spearman": 0.742022,
+        "cosine_pearson": 0.658299,
+        "cosine_spearman": 0.742022,
+        "manhattan_pearson": 0.727192,
+        "manhattan_spearman": 0.745192,
+        "euclidean_pearson": 0.727117,
+        "euclidean_spearman": 0.745062,
+        "main_score": 0.742022,
+        "hf_subset": "default",
+        "languages": [
+          "cmn-Hans"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 118.07346844673157,
+  "kg_co2_emissions": null
+}
