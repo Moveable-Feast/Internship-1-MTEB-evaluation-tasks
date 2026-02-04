@@ -1,4 +1,4 @@
-# MTEB-and-VDB-of-RAG
+# Internship-1-MTEB-evaluation-tasks
 
 <div align="center">
    文本向量评测和向量数据库Python实现基础
